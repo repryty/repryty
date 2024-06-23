@@ -1,5 +1,5 @@
 # About
-고등학생
+파이썬의 0.00001%를 통달했습니다 
 
 # Status
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=repryty&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
