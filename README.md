@@ -1,5 +1,5 @@
 # About
-1+1=3
+$1+1=3$
 # Status
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=repryty&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
